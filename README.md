@@ -1,5 +1,3 @@
-# terraform-lab-05-backend-s3
-Terraform lab implementing a remote backend using Amazon S3 for secure state management and collaboration.
 # Terraform Lab 05 – Remote Backend with Amazon S3
 
 This project demonstrates how to configure Terraform to use a remote backend with Amazon S3, enabling secure, centralized, and consistent state management. This setup follows Infrastructure as Code best practices and simulates a real-world collaborative environment.
